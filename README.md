@@ -125,4 +125,4 @@ _Hình minh họa sơ đồ mạch:_
 [📄 Tài liệu chi tiết](https://docs.google.com/document/d/1G99TuD50ztIW2RdDFPw2Z6U_Oa_O0XJtjfCVR7zlI1Q/edit?usp=sharing)
 
 ## DEMO
-[Video Demo](https://youtu.be/cbgyXKiwJYA)
+[Video Demo](https://youtu.be/w10ksupIWow)
